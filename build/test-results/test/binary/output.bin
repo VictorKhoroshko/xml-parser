@@ -1,0 +1,5 @@
+­[INFO] 2018-12-02 17:58:51,835 c.a.XmlParserApplication - Command line args [.\build\resources\test\sample-0-origin.html, .\build\resources\test\sample-1-evil-gemini.html]
+ž[INFO] 2018-12-02 17:58:51,837 c.a.XmlParserApplication - Element id command line argument is not specified, using a default value make-everything-ok-button
+oTarget element path #root[0] > html[0] > body[1] > div[0] > div[1] > div[2] > div[0] > div[0] > div[1] > a[1]
+%Overall similarity is 62.18 percent
+_Attributes similarity {onclick=1.0, rel=0.5, href=0.23076923076923078, title=1.0, class=1.0} 
